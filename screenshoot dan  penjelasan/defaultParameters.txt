@@ -1,0 +1,1 @@
+kurang lebih konsepnya sama dengan template strings , namun hanya saja menggunakan paramater pada seuah function.

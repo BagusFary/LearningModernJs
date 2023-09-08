@@ -1,0 +1,1 @@
+menurut pemahaman saya spread adalah suatu function di javascript untuk menggabungkan output sebuah array.

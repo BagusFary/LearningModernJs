@@ -1,0 +1,1 @@
+menurut pemahaman saya restO digunakan untuk memilah data pada array

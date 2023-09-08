@@ -1,0 +1,1 @@
+menurut pemahaman saya restructuring adalah function javascript untuk membuat suatu output dengan template strings.

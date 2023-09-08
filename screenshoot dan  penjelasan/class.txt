@@ -1,0 +1,1 @@
+menurut pemahaman saya class pada javascript itu seperti OOP memiliki inheritance ,constructor, dan extends suatu class.

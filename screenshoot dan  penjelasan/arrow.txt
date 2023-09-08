@@ -1,0 +1,1 @@
+arrow function adalah bentuk baru dari function lama.

@@ -1,0 +1,1 @@
+arrow function yang kedua kurang lebih sama , hanya saja arrow function ini lebih mirip dengan function lama.
